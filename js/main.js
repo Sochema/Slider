@@ -24,11 +24,14 @@ function superSlider(slide){
 
 
 // next.addEventListener("click", function(){
-//   images[i++].innerHTML;
+//   if (images[0]) {
+// images[this+1] ou i+1
+// }
 // })
 //
 // previous.addEventListener("click", function(){
 //   images[i--]...
+// ou
 //
 //
 // })
